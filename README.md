@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krishna Gupta</h1>
 <h3 align="center">A passionate MERN-Stack(Frontend+Backend) developer from India.</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnagptamcs&label=Profile%20views&color=0e75b6&style=flat" alt="krishnagptamcs" /> </p>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"/>
+
 
 - 🔭 I’m currently working on [Ed-tech Project](https://studynotion-edtech-project.vercel.app/)
 
